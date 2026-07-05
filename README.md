@@ -1,4 +1,5 @@
 # Review Analyser — Runbook (HTML frontend + Python backend)
+[live link](https://mango-cliff-017397600.7.azurestaticapps.net)
 
 A single self-contained HTML page that grades a pasted review for sentiment,
 key phrases, and named entities using **Azure AI Language**, deployed on
